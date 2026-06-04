@@ -4,11 +4,11 @@
 
 </div>
 
-<div align="center">
+<align="center">
 [![npm version](https://img.shields.io/npm/v/karpathy-guidelines-mcp.svg)](https://www.npmjs.com/package/karpathy-guidelines-mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-</div>
+</>
 
 > 基于 [Andrej Karpathy](https://x.com/karpathy/status/2015883857489522876) 对 LLM 编码陷阱的观察，将编码行为准则封装为 MCP 工具，供 Claude Code 直接调用。
 
