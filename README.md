@@ -3,6 +3,7 @@
 # Karpathy Guidelines MCP Server
 
 </div>
+
 [![npm version](https://img.shields.io/npm/v/karpathy-guidelines-mcp.svg)](https://www.npmjs.com/package/karpathy-guidelines-mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
