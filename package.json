@@ -1,0 +1,28 @@
+{
+  "name": "karpathy-guidelines-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for Andrej Karpathy's coding guidelines. Provides tools to get coding guidelines and review code against them.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "karpathy-guidelines-mcp": "./index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "mcp",
+    "claude",
+    "karpathy",
+    "coding-guidelines",
+    "code-review"
+  ],
+  "author": "yangleduo",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1"
+  }
+}
